@@ -13,6 +13,17 @@ section {
     padding-bottom: 3%;
 }
 
+#nav-bar {
+    background-color: darkcyan;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;  
+}
+
+#nav-bar a:visited {
+    color: white;
+}
+
 #header {
     display: flex;
     background-color: #1F2937;
