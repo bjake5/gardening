@@ -43,6 +43,8 @@ body {
 #hero-section {
     display: flex;
     background-color: #1F2937;
+    padding-bottom: 75px;
+    align-items: center;
 }
 
 #hero-section h1 {
@@ -69,6 +71,7 @@ body {
 
 #hero-section-image {
     flex: 1;
+    padding-right: 50px;
 }
 
 button {
